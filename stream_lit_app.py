@@ -12,7 +12,7 @@
 ##my_fruit_list = pandas.read_csv("https://uni-lab-files.s3.us-west-2.amazonaws.com/dabw/fruit_macros.txt") ##pull the data to my_fruits_list using pandas##
 ##import streamlit
 import pandas
-streamlit.dataframe(my_fruit_list) 
+stream_lit.dataframe(my_fruit_list) 
 
 
 
